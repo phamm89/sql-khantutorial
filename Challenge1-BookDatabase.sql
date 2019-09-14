@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /* Create a table for a favorite books that includes a primary key, book title, and book rating */
 CREATE TABLE booklist 
     (id INTEGER PRIMARY KEY, name TEXT, rating INTEGER);
@@ -44,4 +43,3 @@ INSERT INTO booklist VALUES
 
 /* Display books in book table */
 SELECT * FROM booklist;
->>>>>>> 9d8a8e2adaa84a1cdf905cd7ad0f5717d9d9e031
